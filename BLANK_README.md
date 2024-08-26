@@ -37,7 +37,7 @@
 <h3 align="center">ISS Tracker</h3>
 
   <p align="center">
-    project_description
+    ISS live tracking site containing resident astronaut information
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
